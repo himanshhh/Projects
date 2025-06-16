@@ -3,7 +3,7 @@
 
 Below are all my projects.
 
-## Data Visualization
+## Data Visualization and Analysis
 
-- [Garment Workers](https://github.com/himanshhh/Data_Visualization_CA2)
-- 
+- [Garment Workers Productivity](https://github.com/himanshhh/Data_Visualization_CA2)
+- [Bank Marketing Analysis](https://github.com/himanshhh/Data_Visualization_GroupCA)
