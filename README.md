@@ -18,11 +18,11 @@ I’m continuously learning and expanding my skillset — stay tuned for new pro
 
 ## 🗄️ Data Architecture & SQL
 
-- [🧠 Student Depression Dataset](https://github.com/himanshhh/Student_Depression_PSQL)  
-  Database design and Python-PostgreSQL integration for analyzing student mental health data.  
-
 - [🚆 Public Transport Route Planner](https://github.com/himanshhh/Route_Planner)  
-  Graph database and route optimization for Indian Railways using Neo4j and Python.  
+  Graph database and route optimization for Indian Railways using Neo4j and Python.
+
+- [🧠 Student Depression Dataset](https://github.com/himanshhh/Student_Depression_PSQL)  
+  Database design and Python-PostgreSQL integration for analyzing student mental health data.    
 
 ---
 
