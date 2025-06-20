@@ -16,6 +16,16 @@ I’m continuously learning and expanding my skillset — stay tuned for new pro
 
 ---
 
+## 🤖 Machine Learning & Time Series Analysis
+
+- [📈 Power Consumption Forecasting](https://github.com/himanshhh/Power_Forecasting)  
+  Time series forecasting using ARIMA and SARIMA to predict power consumption across 3 urban zones using weather and energy data.
+
+- [🏡 Crime vs. Property Price in Ireland](https://github.com/himanshhh/Novel_Problem)  
+  End-to-end ML pipeline exploring the correlation between crime rates and housing prices using regression models and feature engineering.
+
+---
+
 ## 🗄️ Data Architecture & SQL
 
 - [🚆 Public Transport Route Planner](https://github.com/himanshhh/Route_Planner)  
