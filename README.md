@@ -8,10 +8,10 @@ I’m continuously learning and expanding my skillset — stay tuned for new pro
 
 ## 📊 Data Analysis (Power BI, Shiny for Python)
 
-- [👔 Garment Workers Productivity](https://github.com/himanshhh/Data_Visualization_CA2)  
+- [👔 Garment Workers Productivity](https://github.com/himanshhh/Productivity_Analysis)  
   Visual analytics exploring productivity factors in garment manufacturing.  
 
-- [🏦 Bank Marketing Analysis](https://github.com/himanshhh/b)  
+- [🏦 Bank Marketing Analysis](https://github.com/himanshhh/Bank_Marketing_Analysis)  
   Customer segmentation and campaign effectiveness insights for banking marketing.  
 
 ---
