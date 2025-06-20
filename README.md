@@ -36,7 +36,10 @@ I’m continuously learning and expanding my skillset — stay tuned for new pro
 
 ---
 
-## 🧩 Object-Oriented Programming (OOP)
+## 💻 Programming and Web Applications
+
+- [🌐 PHP CRUD App](https://github.com/himanshhh/PHP_CRUD_app)  
+  PHP-based restaurant app with full CRUD operations, connected to a MySQL database and styled with SCSS and JavaScript.
 
 - [🔧 OOP Project 1](https://github.com/himanshhh/oop-ca5)  
   Foundational OOP concepts and implementation exercises.  
