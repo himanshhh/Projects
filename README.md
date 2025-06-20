@@ -11,7 +11,7 @@ I’m continuously learning and expanding my skillset — stay tuned for new pro
 - [👔 Garment Workers Productivity](https://github.com/himanshhh/Data_Visualization_CA2)  
   Visual analytics exploring productivity factors in garment manufacturing.  
 
-- [🏦 Bank Marketing Analysis](https://github.com/himanshhh/Data_Visualization_GroupCA)  
+- [🏦 Bank Marketing Analysis](https://github.com/himanshhh/b)  
   Customer segmentation and campaign effectiveness insights for banking marketing.  
 
 ---
