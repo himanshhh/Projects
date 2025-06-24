@@ -16,6 +16,17 @@ I’m continuously learning and expanding my skillset — stay tuned for new pro
 
 ---
 
+## 👁️ Computer Vision Projects
+
+- [🧾 Invoice OCR System](https://github.com/himanshhh/Optical_Character_Recognition)  
+  End-to-end computer vision project using Tesseract OCR to extract invoice data and store it in MySQL with duplicate detection and visual validation.
+
+- [⚠️WIP: 🗑️ Smart Waste Management] — *In Progress - Summer Dissertation Project*  
+  CNN-based Image Classification system to automatically identify types of waste (plastic, glass, metal, etc.) for smart waste management applications.  
+  Currently hosted on [GitLab (private repo)](https://gitlab.comp.dkit.ie/D00233455/masters-dissertation) — access available upon request.
+
+---
+
 ## 🤖 Machine Learning & Time Series Analysis
 
 - [📈 Power Consumption Forecasting](https://github.com/himanshhh/Power_Forecasting)  
