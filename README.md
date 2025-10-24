@@ -18,11 +18,11 @@ I’m continuously learning and expanding my skillset — stay tuned for new pro
 
 ## 👁️ Computer Vision Projects
 
+- [🗑️ Master's Dissertation: Smart Waste Management](https://github.com/himanshhh/Smart_Waste_Management)  
+  CNN + Transfer Learning based Image Classification system to automatically identify types of waste (plastic, glass, metal, etc.) for smart waste management applications.
+
 - [🧾 Invoice OCR System](https://github.com/himanshhh/Optical_Character_Recognition)  
   End-to-end computer vision project using Tesseract OCR to extract invoice data and store it in MySQL with duplicate detection and visual validation.
-
-- [🗑️ Smart Waste Management](https://github.com/himanshhh/Smart_Waste_Management)  
-  CNN + Transfer Learning based Image Classification system to automatically identify types of waste (plastic, glass, metal, etc.) for smart waste management applications.
 
 ---
 
